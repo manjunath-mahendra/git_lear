@@ -11,7 +11,7 @@ from model.ctabgan import CTABGAN
 import json
 import os
 
-
+# added new line
 def balanced_syn_data(syn_data, value_count, label):
     """
     This function balance the target of synthetic data as that of real data
